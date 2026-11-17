@@ -1,5 +1,5 @@
-// Laudate service worker — versión 2b5f2a2cc4
-const CACHE = 'laudate-2b5f2a2cc4';
+// Laudate service worker — versión 3665acad41
+const CACHE = 'laudate-3665acad41';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
 self.addEventListener('install', (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', (e) => {
