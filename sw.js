@@ -1,5 +1,5 @@
-// Laudate service worker — versión 2b3a953879
-const CACHE = 'laudate-2b3a953879';
+// Laudate service worker — versión 5d721cc5ff
+const CACHE = 'laudate-5d721cc5ff';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png', './icons/apple-touch-icon.png'];
 self.addEventListener('install', (e) => { e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())); });
 self.addEventListener('activate', (e) => {
@@ -12,6 +12,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   const isFont = /fonts\.(googleapis|gstatic)\.com$/.test(url.hostname);
   if (url.origin !== location.origin && !isFont) return;
+  if (url.pathname.includes('/data/')) return; // la publicación de cantos siempre se pide a la red
   e.respondWith(caches.open(CACHE).then(async (cache) => {
     const key = req.mode === 'navigate' ? './index.html' : req;
     const cached = await cache.match(key);
