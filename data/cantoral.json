@@ -1,0 +1,89 @@
+{
+ "app": "laudate",
+ "format": 1,
+ "kind": "cancionero",
+ "songs": [
+  {
+   "id": "s-rorate",
+   "title": "Rorate Caeli",
+   "author": "Tradicional (canto gregoriano)",
+   "moment": "Entrada",
+   "season": "Adviento",
+   "key": "Dm",
+   "notes": "Antífona lenta y sobria. Órgano o guitarra arpegiada. La asamblea canta solo la antífona; las estrofas, un solista.",
+   "content": "{soc: Antífona}\n[Dm]Rorate [Am7]caeli [Dm]desuper,\n[Gm]et nubes [C]plu[Fadd9]ant [Dm]iustum.\n{eoc}\n\n{c: Estrofa 1 (solista)}\n[Dm]Ne irascaris [C]Domine,\n[Bb]ne ultra memi[F]neris iniqui[Gm]tatis:\n[Dm]ecce civitas [C]Sancti facta est de[Dm]serta,\n[Bb]Sion deserta [F]facta est,\n[Gm]Ierusalem deso[Asus4]lata [A]est."
+  },
+  {
+   "id": "s-adeste",
+   "title": "Adeste Fideles",
+   "author": "Atrib. John F. Wade (s. XVIII)",
+   "moment": "Entrada",
+   "season": "Navidad",
+   "key": "G",
+   "notes": "Entrada con procesión. Subir medio tono (+1) en la última estrofa le da fuerza.",
+   "content": "{c: Estrofa}\n[G]Adeste fi[D]deles, [G]laeti tri[D/F#]umphan[G]tes,\n[Em]venite, [D]veni[Am7]te in [D]Bethle[A7]hem.[D]\n[G]Natum vi[C]dete [G/B]Regem [D]ange[G]lorum.\n\n{soc: Coro}\n[G]Venite ado[D]remus, ve[G]nite ado[D]remus,\n[G]venite a[C]do[G/B]re[D]mus [G]Do[Csus2]mi[D7]num.[G]\n{eoc}"
+  },
+  {
+   "id": "s-attende",
+   "title": "Attende Domine",
+   "author": "Tradicional (s. X, canto mozárabe)",
+   "moment": "Perdón",
+   "season": "Cuaresma",
+   "key": "Em",
+   "notes": "Sin instrumentos de percusión en Cuaresma. Respetar los silencios entre estrofas.",
+   "content": "{soc: Respuesta}\n[Em]Attende [D]Domine, [Em]et mise[Bm7]rere,\n[C]quia pecca[D]vimus [Em]tibi.\n{eoc}\n\n{c: Estrofa 1}\n[Em]Ad te Rex [D]summe, [G]omnium Re[D]demptor,\n[C]oculos nostros [G]sublevamus [B7]flentes:\n[Em]exaudi, [Am7]Christe, [Dsus4]supplican[D]tum [Em]preces."
+  },
+  {
+   "id": "s-noche-paz",
+   "title": "Noche de paz",
+   "author": "J. Mohr / F. X. Gruber (trad. F. Fliedner)",
+   "moment": "Comunión",
+   "season": "Navidad",
+   "key": "C",
+   "notes": "Compás de 3/4, muy tranquilo. La última estrofa puede ir a capela.",
+   "content": "{c: Estrofa 1}\n[C]Noche de paz, noche de a[C]mor,\n[G7]todo duerme en derre[C]dor.\n[F]Entre los astros que es[C]parcen su luz,\n[F]bella anunciando al ni[C]ñito Jesús,\n[G7]brilla la estrella de [C]paz,\n[C/E]brilla la [G7]estrella de [C]paz.\n\n{c: Estrofa 2}\n[C]Noche de paz, noche de a[C]mor,\n[G7]oye humilde el fiel pas[C]tor\n[F]coros celestes que a[C]nuncian salud,\n[F]gracias y glorias en [C]gran plenitud,\n[G7]por nuestro buen Reden[C]tor,\n[Am7]por nuestro [Dm7]buen [G7]Reden[C]tor."
+  },
+  {
+   "id": "s-cantemos",
+   "title": "Cantemos al Amor de los amores",
+   "author": "R. del Valle / J. I. Busca de Sagastizábal (1911)",
+   "moment": "Comunión",
+   "season": "Ordinario",
+   "key": "D",
+   "notes": "Himno del Congreso Eucarístico de Madrid (1911). Marcial pero sin correr. También sirve para Adoración.",
+   "content": "{c: Estrofa}\n[D]Cantemos al Amor de los a[A7]mores,\n[A7]cantemos al Se[D]ñor.\n[D]¡Dios está a[G]quí! Ve[D]nid, adora[Bm]dores;\n[Em7]adore[D/F#]mos a [A7]Cristo Reden[D]tor.\n\n{soc: Coro}\n[D]¡Gloria a [G]Cristo Je[D]sús!\n[Bm]¡Cielos y [Em]tierra, ben[A7]decid al Se[D]ñor!\n[D]¡Honor y [G]gloria a [D]ti, Rey de la [A7]gloria;\n[G]amor por [D/F#]siempre a [Asus4]ti, Dios [A7]del a[D]mor!\n{eoc}"
+  },
+  {
+   "id": "s-tantum",
+   "title": "Tantum Ergo",
+   "author": "Santo Tomás de Aquino (s. XIII)",
+   "moment": "Adoración",
+   "season": "Ordinario",
+   "key": "F",
+   "notes": "Bendición con el Santísimo. Todos de rodillas en la primera estrofa.",
+   "content": "{c: Estrofa 1}\n[F]Tantum ergo [C]Sacra[F]mentum\n[Dm]veneremur [Gm7]cer[C]nui:\n[F]et antiquum [Bb]docu[C]mentum\n[Am]novo cedat [Dm]ri[C]tu[F]i:\n[Bb]praestet fides [F]supple[C]mentum\n[Dm]sensu[Bb]um de[Csus4]fec[C]tu[F]i.\n\n{c: Estrofa 2}\n[F]Genitori, [C]Genito[F]que\n[Dm]laus et iu[Gm7]bila[C]tio,\n[F]salus, honor, [Bb]virtus [C]quoque\n[Am]sit et bene[Dm]di[C]cti[F]o:\n[Bb]procedenti [F]ab u[C]troque\n[Dm]compar [Bb]sit lau[Csus4]da[C]ti[F]o.\n[Bb]A[F]men."
+  },
+  {
+   "id": "s-regina",
+   "title": "Regina Caeli",
+   "author": "Tradicional (tono simple)",
+   "moment": "Salida",
+   "season": "Pascua",
+   "key": "C",
+   "notes": "Sustituye al Ángelus durante el tiempo pascual. Alegre, con el aleluya bien marcado.",
+   "content": "[C]Regina [G/B]caeli, [Am]laetare, [F]alle[G]lu[C]ia.\n[F]Quia quem me[C]ruisti por[G]tare, [F]alle[Gsus4]lu[C]ia.\n[C]Resurrexit, [Em7]sicut [Am]dixit, [F]alle[G]lu[C]ia.\n[F]Ora pro [C/E]nobis [Dm7]Deum, [F]alle[G7]lu[C]ia."
+  },
+  {
+   "id": "s-sanctissima",
+   "title": "O Sanctissima",
+   "author": "Tradicional siciliano (s. XVIII)",
+   "moment": "Salida",
+   "season": "Ordinario",
+   "key": "G",
+   "notes": "Canto mariano de salida. Dos veces: la segunda con todo el coro a voces.",
+   "content": "[G]O sanctissima, [D/F#]o pi[G]issima,\n[Cadd9]dulcis [G/B]Virgo Ma[D]ri[G]a!\n[Em]Mater a[Bm]mata, [C]intemer[G]ata,\n[Cadd9]ora, [G/B]ora [Dsus4]pro [D7]no[G]bis."
+  }
+ ],
+ "setlists": [],
+ "publishedAt": "2026-11-23T20:12:12.372Z"
+}
