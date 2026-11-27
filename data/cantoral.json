@@ -11101,8 +11101,13 @@
    "notes": "Momento a elegir. Fuente: Cancionero Franciscano (n.º 1728).",
    "content": "{soc: Estribillo}\n[A]¡GLORIA, ALABANZA Y HONOR!\n[D]¡GRITAD HOSANNA [A]Y HACEOS\n[D]COMO [E7]LOS [A]NIÑOS [F#m]HEBREOS\n[C#m]AL [Bm]PASO [E]DEL REDENTOR!\n[Bm]¡GLORIA, [E7]ALABANZA [A]Y HONOR\n[F#m]AL [D]QUE VIENE\n[A]EN [E7]EL NOMBRE [A]DEL SEÑOR!\n{eoc}\n\n[A]Como [E]Jerusalén [A]con [E7]su [A]traje festivo,\n[E7]vestida [A]de [D]palmeras, [E7]coronada [A]de olivos,\n[G]viene [C]la [D]cristiandad en [E]son [A7]de romería,\n[D]a [A]inaugurar tu [D]Pascua [E7]con himnos [A]de alegría.\n\n[A]Ibas como [E]va el [A]sol a [E7]un ocaso [A]de gloria;\n[E]cantaban [A]ya tu [D]muerte, [E7]al cantar [A]tu victoria.\n[G]Pero tú [C]eres el [D]Rey, el [E]Señor, el [A7]Dios Fuerte,\n[D]la [A]Vida que [D]renace del [E7]fondo de [A]la muerte.",
    "createdAt": "2026-11-27T02:59:40.717Z",
-   "updatedAt": "2026-11-27T03:37:58.651Z",
-   "links": []
+   "updatedAt": "2026-11-27T03:39:10.887Z",
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=P7AUFKuaMOY",
+     "label": ""
+    }
+   ]
   },
   {
    "id": "c-servidores-sed",
@@ -16722,5 +16727,5 @@
   }
  ],
  "setlists": [],
- "publishedAt": "2026-11-27T03:38:01.708Z"
+ "publishedAt": "2026-11-27T03:39:13.932Z"
 }
