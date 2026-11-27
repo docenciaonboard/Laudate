@@ -6192,8 +6192,13 @@
    "notes": "Fuente: Cancionero Franciscano (n.º 514).",
    "content": "[C]En [F]este mundo [Em]que Cristo [Am]nos da\n[C]hacemos [F]la ofrenda [G]del pan;\n[C]el [F]pan de [Em]nuestro trabajo [Am]sin fin\n[C]y el [Dm]vino de [G7]nuestro cantar.\n[C]Traigo [F]ante Ti [Em]nuestra [Am]justa inquietud:\n[C]amar la [F]justicia y [G]la paz.\n\n{soc: Estribillo}\n[Dm]SABER [G7]QUE VENDRÁS,\n[C]SABER [Am]QUE ESTARÁS\n[G7]PARTIENDO A LOS [C]POBRES TU PAN (bis)\n{eoc}\n\n[C]La sed [F]de todos [Em]los hombres [Am]sin luz,\n[C]la pena [F]y el [G]triste llorar;\n[C]el odio [F]de los [Em]que mueren [Am]sin fe,\n[C]cansados [Dm]de [G7]tanto luchar.\n[C]En [F]la patena [Em]de [Am]nuestra oblación\n[C]acepta [F]la [G]vida, Señor.",
    "createdAt": "2026-11-27T02:59:40.717Z",
-   "updatedAt": "2026-11-27T02:59:40.717Z",
-   "links": []
+   "updatedAt": "2026-11-27T04:22:02.971Z",
+   "links": [
+    {
+     "url": "https://www.youtube.com/watch?v=JLQfp4YfyX8",
+     "label": ""
+    }
+   ]
   },
   {
    "id": "c-bendito-seas-senor",
@@ -16742,5 +16747,5 @@
   }
  ],
  "setlists": [],
- "publishedAt": "2026-11-27T03:56:18.479Z"
+ "publishedAt": "2026-11-27T04:22:06.057Z"
 }
